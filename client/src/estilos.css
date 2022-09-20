@@ -1,0 +1,75 @@
+.botoneditar{
+    background-color:#F9E79F;
+}
+.botonborrar{
+    background-color: #E6B0AA ;
+    margin:3px;
+}
+
+.contenedor1{
+    align-items:left;
+    border:2px solid black;
+    width: 450px;
+    justify-content: left;
+    text-align: left;
+    padding: 10px;
+    margin: 5px;
+
+}
+.botoncancelar,.botonsubmit{
+    background-color: skyblue;
+    margin:2px;
+}
+.encabezado2{
+    text-align: left;
+    margin: 5px;
+}
+.texto1{
+    color:#4A235A;
+    font-weight: bold;
+}
+
+.Alerta{
+    color:#E74C3C ;
+}
+.principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.container-Dash {
+    align-items: center;
+}
+.o {
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    gap: 20%;
+}
+.backlog h2 {
+    background-color: blue;
+}
+.inprogress h2 {
+    background-color: rgb(192, 135, 30);
+}
+.completed h2 {
+    background-color: green;
+}
+.tarea-b {
+    background-color: rgb(172, 166, 166);
+    margin-bottom: 10px;
+}
+.tarea-c {
+    background-color: rgb(172, 166, 166);
+    margin-bottom: 10px;
+}
+.tarea-i {
+    background-color: rgb(172, 166, 166);
+    margin-bottom: 10px;
+}
+.aux-div {
+    border: solid 10px;
+    margin-bottom: 10px;
+}
